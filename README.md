@@ -1,4 +1,5 @@
-![ShortifyAPI](https://github.com/dtsoden/shortifyapi/raw/main/logo.png)
+<img src="[image_url.png](https://github.com/dtsoden/shortifyapi/raw/main/logo.png)" alt="ShortifyAPI" height="300">
+
 # ShortifyAPI Frontend App
 This is a frontend to the ShortifyAPI
 
