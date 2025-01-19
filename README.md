@@ -1,3 +1,4 @@
+![ShortifyAPI](https://github.com/dtsoden/shortifyapi/raw/main/logo.png)
 # ShortifyAPI Frontend App
 This is a frontend to the ShortifyAPI
 
