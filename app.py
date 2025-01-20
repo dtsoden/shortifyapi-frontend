@@ -3,6 +3,13 @@ import streamlit as st
 import requests
 import pandas as pd
 
+# Set the page configuration with a custom favicon
+st.set_page_config(
+    page_title="Shortify API Front End",
+    page_icon="favicon.ico",  # Path to your favicon
+    layout="wide"
+)
+
 # Custom CSS for styling
 st.markdown(
     """
